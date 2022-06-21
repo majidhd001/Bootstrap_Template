@@ -2,8 +2,8 @@
 .btn-primary:visited,
 .btn-primary:focus
 {
-    background-color: #850dfd;
-    border-color:#660fbd;
+    background-color: #7f18e6;
+    border-color:#cda8f2;
 }
 
 .btn-primary:hover,
@@ -22,7 +22,8 @@
 }
 
 .bg-primary {
-    background-color:#f9f8ff;
+    color: #6d3bae;
+    background-color:#c6bdf6;
 }
 
 .border-primary {
@@ -32,4 +33,8 @@
     color: #5700c5 l;;
     background-color: #660fbd;
     border-color:#d5abff ;
+}
+
+.bg-feature {
+    background-color: #ece6f2;
 }
